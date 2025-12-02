@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "caramel city",
+  "base_artist": "おいしくるメロンパン",
+  "createdAt": "2025-12-02T02:10:59.229857Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Caramel City",
+      "artist": "Danko Jones",
+      "has_synced": false,
+      "path": "select/01_Caramel_City_Danko_Jones.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "caramel city",
+      "artist": "おいしくるメロンパン",
+      "has_synced": false,
+      "path": "select/pl_01_caramel_city_おいしくるメロンパン.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Caramel City",
+      "artist": "おいしくるメロンパン",
+      "has_synced": false,
+      "path": "select/pl_02_Caramel_City_おいしくるメロンパン.txt"
+    }
+  ]
+}
